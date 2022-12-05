@@ -1,0 +1,11 @@
+header.main-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 1rem 2rem;
+
+  p {
+    font-size: var(--font-size-btn);
+  }
+}

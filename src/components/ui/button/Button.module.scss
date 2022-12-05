@@ -1,0 +1,13 @@
+.btn {
+  max-width: 15rem;
+  text-stroke: 1px var(--bgc-wrapper);
+  border-radius: 20px;
+  font-size: var(--font-size-btn);
+  font-weight: 400;
+  font-style: italic;
+  color: white;
+  box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.75);
+  padding: 10px 2rem;
+  text-align: left;
+  margin-bottom: 2rem;
+}
